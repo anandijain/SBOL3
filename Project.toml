@@ -1,0 +1,10 @@
+name = "SBOL3"
+uuid = "869d839c-90b2-492d-a108-0fe7de612786"
+authors = ["anand jain <anandj@uchicago.edu>"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
